@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-search-react/static/css/main.f7c00d75.chunk.css",
+    "main.js": "/monsters-search-react/static/js/main.f6f8d759.chunk.js",
+    "main.js.map": "/monsters-search-react/static/js/main.f6f8d759.chunk.js.map",
+    "runtime-main.js": "/monsters-search-react/static/js/runtime-main.95e2f1ef.js",
+    "runtime-main.js.map": "/monsters-search-react/static/js/runtime-main.95e2f1ef.js.map",
+    "static/js/2.5cca9c52.chunk.js": "/monsters-search-react/static/js/2.5cca9c52.chunk.js",
+    "static/js/2.5cca9c52.chunk.js.map": "/monsters-search-react/static/js/2.5cca9c52.chunk.js.map",
+    "index.html": "/monsters-search-react/index.html",
+    "precache-manifest.64b8fa2a74eb0425a7a1b88963d5d830.js": "/monsters-search-react/precache-manifest.64b8fa2a74eb0425a7a1b88963d5d830.js",
+    "service-worker.js": "/monsters-search-react/service-worker.js",
+    "static/css/main.f7c00d75.chunk.css.map": "/monsters-search-react/static/css/main.f7c00d75.chunk.css.map",
+    "static/js/2.5cca9c52.chunk.js.LICENSE.txt": "/monsters-search-react/static/js/2.5cca9c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95e2f1ef.js",
+    "static/js/2.5cca9c52.chunk.js",
+    "static/css/main.f7c00d75.chunk.css",
+    "static/js/main.f6f8d759.chunk.js"
+  ]
+}
